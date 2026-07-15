@@ -1,7 +1,7 @@
 ![logo](https://github.com/Shajanjjacob/shajanjjacob/blob/main/github%20profile.png)
 
 <h1 align="center">Hi 👋, I'm Shajan J Jacob</h1>
-<h3 align="center">A passionate Python Full Stack developer from India</h3>
+<h3 align="center">A passionate  Full Stack developer from India</h3>
 
 <img align="right" alt="code" width="300px" src="https://github.com/Shajanjjacob/shajanjjacob/assets/34437757/0e391184-521d-47ad-9b1c-9cde8db4d61f">
 
